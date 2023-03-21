@@ -1,0 +1,296 @@
+Se 
+1 = 188
+x = 622
+x = 434 cartas
+622 - 188 = 
+4200/4200
+022 - Summoned Skull Lv 6 x
+
+4400/4400
+713 - Meter B Dragon Lv 8
+5000/4200
+035 = Dark Magician Lv 7 x
+613 = Twin-headed Lv 7 x
+
+4600/4600
+358 - Seiyaryu Lv 7
+360 - Zera Lv 8
+392 - Metalzoa Lv 8 x
+
+5000/4600
+001 - Blue-Eyes  = 3
+057 - Grath Moth Lv 8 = 6
+067 - Perfectly Lv 8 = 9
+217 - B Skull Lv 9 = 12
+374 - Gate Guardian Lv 11 = 18
+703 - Sengenjin Lv 8 = 24
+722 - Magician of BLack Lv 8 = 27
+
+5000/4500
+364 - Black Luster Lv 8 
+
+5000/5000
+380 - Blue-Eyes Ultimate Lv 12 = 21
+
+Lv 1
+0
+Lv 2
+500
+Lv 3
+800
+Lv 4
+1000
+Lv 5
+2000
+Lv 6
+3000
+Lv 7
+4000
+Lv 8
+5000
+Lv 9
+6000
+Lv 10
+7000
+Lv 11
+8000
+Lv 12
+9000
+
+301 até 350 = Equipamentos
+
+Simon 
+100x : 343
+
+80x : 0 a 499
+
+50x : 500 a 1000
+8,9,16,29,56,75,100,105,197,485,516,563,
+
+1000 a 1500
+4,5,28,29,30,45,47,48,96,97,98,100,
+
+339-Red Medicine
+344-Sparks
+
+009 - Shadow Specter 500/200 
+016 - Time Wizard    500/400
+024 - Skull Servant  300/200
+050 - Basic Insect   500/700
+056 - Larvae Moth    500/400
+058 - Kuriboh        300/200
+105 - Tomoaurus      500/400
+123 - Dark Plant     300/400
+130 - Weather Contro 600/400
+137 - Mystery Hand   500/500
+total 10
+
+138 até 149 = total 10
+
+152
+159
+160
+161
+167
+182
+195
+197
+202
+224
+254
+255
+264
+274
+277
+278
+289
+295
+387
+393
+394
+395
+397
+398
+399
+402
+410
+411
+420
+422
+428
+436
+444
+469
+475
+484
+485
+486
+492
+499
+501
+504
+524
+527
+541
+547
+548
+589
+635
+
+009-Shadow Specter 500/200
+024-Skull Servant 300/200
+058-Kuriboh 300/200
+123-Dark Plant 300/400
+167-Ancient Jar Lv 1 400/200 > 200/100 OK 
+192-Key Mace ???
+250-Kattapillar Lv 1 250/300 > 125/150
+384-Ameba Lv 1       300/350 > 150/175
+394-Steel Scorp Lv 1 250/300 > 125/150 OK
+398-Ooguchi Lv 1     300/250 > 150/125 OK
+402-Monster Eye Lv 1 250/350 > 125/175 OK
+411-Bat Lv 1         300/250 > 150/175 OK
+428-Magician of Faith 300/200
+469-Armed Ninja Lv 1 300/300 > 150/150 OK
+475-Sinister SerLv 1 300/250 > 150/175 OK
+499-Kattapillar Lv 1
+527-Milus RadianLv 1 300/250 > 150/175 OK
+547-Griggle 350/300 OK
+635-Queen's Double Lv1350/300> 175/150 OK
+
+
+*Simon Muran*
+
+S/A-Pow :
+410 - Mechnic Spider400/500 > 52/2048 - 200/250
+444 - Turu-Purun 450/500    > 52/2048 - 225/250
+484 - Ameba 150/175         > 52/2048 -
+485 - Korogashi 550/400     > 52/2048 - 275/200
+558 - Pot the Trick 400/400 > 52/2048 - 200/200
+635 - Queen's Double 350/300> 52/2048 - 175/150
+
+
+
+
+Versão 0.02 = Nessa versão irei focar nas cartas que os oponentes usam
+
+1-Reduzir o drop da carta 397 de Simon Muran
+2-Diminuir o drop da carta 558 do Duel Master K , afinal ela dropa
+no Simon Muran
+3-Verificar cartas do Simon Muran
+Lv 1 Bone Mouse 400/300
+4-Reduzir o ataque de mais cartas
+5-E + outras coisas
+
+
+Lv 1= 0 - 500
+Fusões :
+
+Zone Eater + Água 1000+ = Água 1500/900
+Água + BeastWar 1000+ = não
+Água 2 + Dragão 2 = Drag 5 Curse of Drag 2000/1500
+Água 2 + Dragão 4 = Drag 5 Curse of Drag 2000/1500
+Água + Fairy = não
+Água + Fiend = Não
+Água + Inseto = Não
+Água 2 + Máq 4 = Máq 5 Mech Bass 1800/1500
+Água + Planta = Não
+Água + Pyro = Não
+Água + Reptil = não
+Água + Spellcaster = não
+Água 2 + Thunder 2 = Thund 5 Kaminari Attack 1900/1400
+Água 2 + Thunder 4 = Thund 5 Kaminari Attack 1900/1400
+Água 2 + Warrior 4 = War 5 Giltia the D Kina 1850/1500
+Água + Zumbi = Não
+Dragão + Warrior = 138-Dragon Statue 1100/900
+Fada + Água = não
+Fada + Fada = Spellcaster 800/2000
+Fada + Inseto = não
+Fada + Máquina = não
+Fada + Planta = não
+Fada + Spellcaster = não
+Fada + Warrior1000+ = não
+Fada + Zumbi = Não
+Fiend + Água 1000+ = não
+Fiend + Fiend = não / Sim
+Fiend + Inseto = Não
+Fiend + Máquina = Não
+Fiend + Planta = não
+Inseto + Água = não
+Inseto + Fiend = não
+Inseto + Planta = não
+Inseto + Spellcaster = Não
+Máquina + Água = Não
+Máquina + Fairy = Não
+Máquina + Fiend = Não
+Máquina + Insect = Não
+Máquina + Máquina = Não
+Máquina + Planta = não
+Máquina + Pyro = não
+Máquina + Reptil = não
+Máquina + Spellcaster = não
+Máquina + Warrior 1000+ = Máquina 1500/1700
+Fada + Água 1000+ = Fada 1800/1700
+Fada + Fada = 582-Dark Witch 1800/1700
+Fiend + Reptile = Não
+Planta + Dragão = Dragão 2100/1800
+Planta 1000+ + Dragão = Dragão 2100/1800
+Planta + Fada = não
+Planta + Fiend = não
+Planta + Inseto = não
+Planta + Máquina = não
+Planta + Planta = não
+Planta + Warrior1000+ = Planta 1400/1300
+Planta + Zumbi = Zumbi 1000/900
+Pyro + Água = Não
+Pyro + Dragão = Não
+Pyro + Warrior 1000+ = Warrior 1800/1600
+Reptil + Água = não
+Reptil + Fada = Não
+Reptil + Fiend = Não
+Reptil + Inseto = não
+Reptil + Planta = 1000/1200
+Reptil + Pyro = Não
+Spellcaster Lv 4 + Dragão 4 = Dragão 6 SkyDra1900/1800
+Spellcaster Lv 4 + Planta 2 = Planta 5 Queen 1800/1500
+Spellcaster Lv 4 + Rock 3 = Rock 6 MysticalS 2100/1700-
+Spellcaster Lv 4 + Spell4 = Spell6 Mask of Sh2000/1800
+Spellcaster Lv 4 = Warrior5 = Warrior7 Gaia  2300/2100
+Spellcaster Lv 4 + Zumbi 1 = Zombie 5 Shadow 1600/1300
+Spellcaster Lv 4 + Zumbi 3 = Zumbi 6 Dokurid1900/18550
+Warrior + Água = não
+Warrior + Fairy = não
+Warrior + Fiend = Não
+Warrior1000+ Planta = Planta 1800/1500
+Zumbi + BeastWarrior1000+ = não
+Zumbi + Dragão = Zumbi 1600/0
+Zumbi + Fada = Não
+Zumbi + Inseto = não
+Zumbi + Máquina = Não
+Zumbi + Planta = Zumbi 1000/900
+Zumbi + Reptil = não
+Zumbi + Warrior1000+ = Zumbi 1500/0
+
+192-Key Mace ( 2 )
++
+139-Weather Control ( 1 )
+=
+582-Dark Witch 1800/1700
+
+200-Petit Dragon ( 
++ Armed Ninja 
+= 138-Dragon Statue 1100/900
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

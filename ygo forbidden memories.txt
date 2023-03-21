@@ -1,0 +1,49 @@
+Aqua + Machine(1000+) = nada
+Aqua + Beast/Fairy/Fiend/Insect/Rock = nada
+Aqua + Thunder = Thu-1400/1500
+Beast + Dino/Insect = nada
+Beast + Fairy = 1900/2000 ou 2000/1700
+Beast + Machine/Spell/Winged = nada
+Beast + Warrior = 1300/1100
+Dino + Fiend = nada
+Fiend + Aqua/Beast/BeastWarrior/Insect = nada
+Fiend + Machine/Rock/Warrior = nada
+Fiend + Machine/Reptile(1000+) = nada
+Insect + Fairy/Fiend/Machine/Thunder/Winged = nada
+Insect + Warrior = 800/900
+Machine + Aqua/Beast/Fairy/Fiend/Rock = nada
+Machine + Fiend/Reptil(1000+) = nada
+Machine + Thunder/Zombie = nada
+Planta + Beast = 1800/1400
+Planta + Fiend/Machine/Rock/Winged = nada
+Planta + Warrior = 1400/1300
+Planta + Zombie = Zo-1000/900
+Reptil + Aqua/Beast/Dino/Fiend/Insect = nada
+Reptil + Machine/Spell/Warrior = nada
+Rock + Aqua/Beast/Fairy/Fiend/Machine = nada
+Rock + Plant = nada
+Rock + Spell = Ro-2100/1700
+Rock + Warrior = Ro-1300/1200
+Rock + Zombie = 1200/1000
+Spell + Fiend = nada
+Thunder + Warrior (1000+) = nada
+Warrior + Aqua/Beast/Fairy/Fiend/Spell = nada
+Warrior + Dragão = Wa-1100/900
+Warrior + Insect = In-800/900
+Warrior + Machine = 1500/1700
+Warrior + Plant = Pla-1400/1300
+Warrior + Rock = 1300/1200
+Warrior + Winged = nada
+WingedBeast + Machine = nada
+WingedBeast + Warrior = 1300/900
+Zombie + Machine = nada
+Zombie + Rock = 1200/1000
+
+Beast 
+Dragão
+Fairy
+Plant
+Rock
+Warrior
+WingedBeast
+Zombie
